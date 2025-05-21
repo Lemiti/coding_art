@@ -29,10 +29,10 @@ This repository documents my progress, experiments, and projects as I explore th
 ├── /art-gallery/          # More complex CSS art
 │   ├── abstract-shapes/
 │   └── pixel-art/
-|
+│
 ├── /images/
-|   ├── bouncing.jpg
-|   └── solar-system.jpg
+│   ├── bouncing.jpg
+│   └── solar-system.jpg
 │
 ├── README.md              # You're here!
 └── resources.md           # Helpful links & tutorials
