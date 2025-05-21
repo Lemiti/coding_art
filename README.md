@@ -31,8 +31,8 @@ This repository documents my progress, experiments, and projects as I explore th
 │   └── pixel-art/
 │
 ├── /images/
-│   ├── bouncing.jpg
-│   └── solar-system.jpg
+│   ├── bouncingBall.png
+│   └── solar-system.png
 │
 ├── README.md              # You're here!
 └── resources.md           # Helpful links & tutorials
@@ -46,7 +46,8 @@ This repository documents my progress, experiments, and projects as I explore th
 
 ---
 
-[![Bouncing Ball ](/coding_art/images/bouncing.jpg)]
+![Bouncing Ball ](/images/bouncingBall.png) <br>
+<b> Bouncing Ball </b>
 
 ---
 
